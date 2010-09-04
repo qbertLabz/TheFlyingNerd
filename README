@@ -1,68 +1,9 @@
-What you will find here are images as well as precompiled .ipk's for use with a Gumstix Overo Fire and Summit Daughterboard. While I am sure you can use other Overo boards
-and daughter boards they as of this point have not been tested. 
-
-Project Goal:
-
-        This is going to be a Angstrom based Linux OS that is setup for PenTesting, site audits, personal survelance from an aerial platform. I would like to get as many 
-        ported applications as possible as well as maintaing a very secure OS. At this point the only main use of the overo is as a true on-board computer that interfaces
-        with an exsisting Open Source auto pilot system (UAV DevBoard, ArduPilot: currently only ones being tested). I am going for the first and only true OS for this 
-        scenario of aerial pentesting, where it could be fully autonomous testing and or predefined recon missions the possibilities are endless. ***More to come**
-
-
-
-
-Operating System Current Info:
-OS: Angstrom built with OpenEmbedded
-Kernel: Linux-omap-psp_2.6.32
-Image: Desktop image that boots as a console 
-
-
-Apps currently ported and running with full capabilities:   ****Full version numbers will come soon as just going off memory right now***
-Metasploit Framework3
-karmetasploit
-FastTrack
-Kismet
-aircrack-ng - 1.1
-carwhisperer
-SocialEngineeringToolkit
-amap -5.2
-fport
-TheHarvester - 1.6
-sslstrip - 0.7
-nmap
-unicornscan - 0.4.7
-xprobe2 - 0.3
-subdomainer - 1.3 
-metagoofil
-mysqlaudit
-proxyfinder
-hydra - 5.4 
-goorecon
-evilGrade = 0.1.3
-fakeAP - 0.3
-dnsiff - 2.3
-
-
-
-Languages:
-Perl
-Python
-Ruby
-QT
-C/C++
-
-
-Native SDK: Full compiling abilities on the overo
-
-
-Scripts Galore:
-There will all types of automatic hack scripts and scenario scripts
-
+Please refer to wiki for more information. 
 
 
 
 How can you help:
-Find bugs in any of the scripts and fix or report them, expand the programs, request new feature sets and so on. 
+Find bugs in any of the scripts and fix or report them, expand the programs, request new feature sets and so on. If you want to join in and help make this better please send me a email qbertlabz at gmail dot com... Or any questions you may have can be forwarded there as well. 
 
 
 This is a new project posting thats been in development for over a year now and will take roughly another few months to get everything on-line completely and how I want it
@@ -70,7 +11,8 @@ Right now is just a sample to get your pallets wet.
 
 
 
-Keep in mind as well the WIKI will be the most updated please refer to that over this!!!!!!
+Please obey, follow and research your local laws before using any of the information in here. I or anyone apart of QbertLabz
+will not be held liable for any trouble you cause yourself. 
 
 
 
